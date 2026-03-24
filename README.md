@@ -1,3 +1,5 @@
+# Team Management
+
 Simple team member manager built with React, `react-hook-form`, and Tailwind CSS.
 
 ## Features
